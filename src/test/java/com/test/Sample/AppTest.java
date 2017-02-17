@@ -28,6 +28,7 @@ public class AppTest {
 		
 		System.out.println("Open broswser");
 		System.out.println("well done  broswser");
+		System.out.println("Jenkins update");
 	}
 	
 	@BeforeTest
