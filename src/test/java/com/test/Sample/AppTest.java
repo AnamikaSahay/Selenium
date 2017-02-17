@@ -26,7 +26,8 @@ public class AppTest {
 	@BeforeMethod
 	public void Openbrowser(){
 		
-		System.out.println("Open broswser");		
+		System.out.println("Open broswser");
+		System.out.println("well done  broswser");
 	}
 	
 	@BeforeTest
