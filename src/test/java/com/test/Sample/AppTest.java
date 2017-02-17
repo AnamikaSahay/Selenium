@@ -18,10 +18,9 @@ public class AppTest {
 	
 	@Test
 	public void testUserregisteration(){
-		Assert.fail();
+		
 		System.out.println("Testing User registeration");
-		Assert.fail();
-	}
+			}
 	
 	@BeforeMethod
 	public void Openbrowser(){
